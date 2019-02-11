@@ -1,0 +1,1 @@
+export { blockType } from './segment';
