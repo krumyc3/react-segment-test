@@ -12,6 +12,8 @@
 
 3- build and bundling your resources for production `npm build`.
 
+### Screenshots
+https://i.ibb.co/yqH7rDL/Screen-Shot.png
 
 ### Configuration
 * Webpack Config paths based on your file structure you can go to `webpack/paths.js` and modify the source and file names based on your need.
